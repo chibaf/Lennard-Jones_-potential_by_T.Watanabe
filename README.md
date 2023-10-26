@@ -8,6 +8,8 @@ gcc -O3 LJ.c
 
 outputs are LJ.dat, LJ.xyz
 
+visualization with mathematica
+
 <img width="674" alt="MD_LJ_20231026" src="https://github.com/chibaf/Lennard-Jones_potential_by_T.Watanabe/assets/1296728/70b5c9bb-7268-4ef7-97da-13d90b678e70">
 
 
