@@ -2,7 +2,7 @@
 MD simulation for Ar with Lennard-Jones potential
 
 ## code
-LJc.c : MD with LJ potential
+LJc.c : MD with LJ potential by T. Watanabe
 
 ## usage
 gcc -O3 LJc.c
