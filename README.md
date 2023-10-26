@@ -1,8 +1,11 @@
 # Lennard-Jones-potential_by_T.Watanabe
 MD simulation for Ar with Lennard-Jones potential
 
+## code
+LJc.c : MD with LJ potential
+
 ## usage
-gcc -O3 LJ.c
+gcc -O3 LJc.c
 
 ./a.out
 
