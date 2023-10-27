@@ -20,6 +20,8 @@ MD-LJ-20231026.nb : Mathematica notebook : input=LJ.xyz
 
 ## plot with gnu octave
 
+usage: octave:82> plotLJ(a)
+
 <img width="869" alt="MD_LJ_EN_20231027" src="https://github.com/chibaf/Lennard-Jones_potential_by_T.Watanabe/assets/1296728/e1db8a5b-ec54-4ba1-8490-6fde27afe2b5">
 
 
